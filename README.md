@@ -1,4 +1,4 @@
-# App_-Infraestructura_Datos_Espaciales
+# App_Infraestructura_Datos_Espaciales
 Aplicación web mapping implementado con Nodejs, Express, OpenLayers, Leaflet, PostGIS, otros.
 
 
